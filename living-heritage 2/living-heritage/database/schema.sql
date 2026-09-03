@@ -1,0 +1,11 @@
+-- Living Heritage — Database Schema
+--
+-- Placeholder only. No tables are defined yet.
+--
+-- The real schema (citizens, families, traditions, tradition knowledge,
+-- jobs, events, policies, etc.) will be added once the simulation
+-- engine's entities are further along, so the tables match what the
+-- simulation actually needs to store, instead of guessing ahead of time.
+--
+-- No PostgreSQL connection is wired up yet either - see backend/ and
+-- database/README.md.
